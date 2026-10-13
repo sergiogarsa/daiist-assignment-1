@@ -3,7 +3,7 @@
 - **Name**: Sergio García
 - **Student ID**: 19912
 - **Email**: sgarcia.ieu2022@student.ie.edu
-- **Group**:  BBADBA 5B 
+- **Group**: BBADBA 5B
 
 ## Dataset
 
@@ -150,6 +150,6 @@ choice does not transfer to a period where the base rate has tripled.
 
 ## Generative AI use disclosure
 
-I used Claude (Anthropic) on this mock assignment to generate the pipeline code (`pipeline.py`,
-`train.py`, `app.py`) and a first draft of this report's structure and rationale. I ran the code,
-and the results come from my own run. I reviewed every decision so I can explain it.
+I used Claude (Anthropic) to generate the pipeline code (`pipeline.py`, `train.py`, `app.py`) and
+to draft this report, including the analysis. I ran the code myself, all results come from my run,
+and I reviewed every decision so I can explain it.
